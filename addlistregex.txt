@@ -1,3 +1,4 @@
 ^rr.*googlevideo\.com$
 (.|^)googlevideo.com$
 ^r[0-9]+---sn-.*-.*\.googlevideo\.com$
+zzzzzzzzzzzzz.com
